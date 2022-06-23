@@ -1,0 +1,1 @@
+### EJB Deploy in WildFly using a local bean
